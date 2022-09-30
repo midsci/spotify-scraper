@@ -1,0 +1,3 @@
+[submodule "utils/zspotify"]
+	path = utils/zspotify
+	url = https://github.com/jsavargas/zspotify.git
